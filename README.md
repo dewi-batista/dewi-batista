@@ -1,6 +1,6 @@
 ## blelele
 
-📄 [Download my CV](_CV.pdf)
+📄 [My CV](my_cv.pdf)
 
 <!--
 - 🔭 I’m currently working on ...
