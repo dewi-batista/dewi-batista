@@ -13,7 +13,7 @@ Nice books:
 4) Janelle Shane's `You Look Like a Thing and I Love You` - I'd suggest this to friends or family who want a rough idea of how machine learning models work without having to see any maths.
 
 Favourite blogs/writings:
-1) [James Betker](https://nonint.com/) - became interested in his writing after reading his comparison of diffusion models and vanilla gradient descent. Interesting perspective
-2) [Richard Sutton](http://incompleteideas.net/) - found his writings through his `The Bitter Lesson` being talked about a lot
+1) [James Betker](https://nonint.com/) - I became interested in his writing after reading his comparison of diffusion models and vanilla gradient descent. James has interesting perspectives.
+2) [Richard Sutton](http://incompleteideas.net/) - I found his writings through his `The Bitter Lesson` being talked about a lot.
 3) [Lilian Weng](https://lilianweng.github.io/)
 <!-- 4) [Chris Olah](https://colah.github.io/) - nicely-rounded collection of topics -->
