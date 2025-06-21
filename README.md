@@ -8,7 +8,7 @@ Currently seeking an internship as the remaining component of my master's in whi
 
 Nice books:
 1) Judea Pearl's `The Book of Why` - Great causal modelling book. Super nicely-written though some of his takes on the limits of extracting correlations from data seem exaggerated/outdated.
-2) Cade Metz's `Genius Makers` - Ignore the cringy title. Great book about the history of big names in deep learning. If you've watched many interviews of people like Hinton, LeCun, etc. then you'll already have heard of a lot of the stories written in this book but it's nice to have them all, plus more, in a single book.
+2) Cade Metz's `Genius Makers` - Ignore the cringy title. Great book about the history of big names in deep learning. If you've watched many interviews of people like Hinton, LeCun, etc. then you'll already have heard of a lot of the stories written in this book but it's nice to have them all (plus more) in a single book.
 3) Cédric Villani's `Birth of a Theorem` - Memoir-style writings by mathematician Cédric Villani about his time working on his work which earned him a fields medal. Interesting guy.
 4) Janelle Shane's `You Look Like a Thing and I Love You` - I'd suggest this to friends or family who want a rough idea of how machine learning models work without having to see any maths.
 
