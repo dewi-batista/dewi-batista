@@ -1,5 +1,7 @@
 ## blelele
 
+📄 [Download my CV](./cv.pdf)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
