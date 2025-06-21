@@ -12,8 +12,8 @@ Nice books:
 3) Cédric Villani's `Birth of a Theorem` - Memoir-style writings by mathematician Cédric Villani about his time working on his work which earned him a fields medal. Interesting guy.
 4) Janelle Shane's `You Look Like a Thing and I Love You` - I'd suggest this to friends or family who want a rough idea of how machine learning models work without having to see any maths.
 
-Nice blogs/writings:
+Favourite blogs/writings:
 1) [James Betker](https://nonint.com/) - became interested in his writing after reading his comparison of diffusion models and vanilla gradient descent. Interesting perspective
 2) [Richard Sutton](http://incompleteideas.net/) - found his writings through his `The Bitter Lesson` being talked about a lot
-3) [Lilian Weng](https://lilianweng.github.io/) - reasonably detailed and well-written posts
-4) [Chris Olah](https://colah.github.io/) - nicely-rounded collection of topics
+3) [Lilian Weng](https://lilianweng.github.io/)
+<!-- 4) [Chris Olah](https://colah.github.io/) - nicely-rounded collection of topics -->
