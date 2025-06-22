@@ -12,4 +12,8 @@ Books read in 2025:
 - Cade Metz's `Genius Makers` - Ignore the cringy title. Great book.
 - Cédric Villani's `Birth of a Theorem`
 
-Blogs I follow: 1) [James Betker](https://nonint.com/) 2) [Richard Sutton](http://incompleteideas.net/) 3) [Lilian Weng](https://lilianweng.github.io/) and 4) [Chris Olah](https://colah.github.io/)
+Blogs I follow:
+- [James Betker](https://nonint.com/)
+- [Richard Sutton](http://incompleteideas.net/)
+- [Lilian Weng](https://lilianweng.github.io/)
+- [Chris Olah](https://colah.github.io/)
