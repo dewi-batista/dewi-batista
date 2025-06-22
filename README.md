@@ -6,7 +6,7 @@ Currently seeking an internship in which I can apply my skills in deep learning 
 
 📫 Email: `dewibatista(at)gmail(dot)com`
 
-Blogs I follow: [James Betker's](https://nonint.com/), [Richard Sutton's](http://incompleteideas.net/), [Lilian Weng's](https://lilianweng.github.io/) and [Chris Olah's](https://colah.github.io/)
+Nice blogs/writings: [James Betker's](https://nonint.com/), [Richard Sutton's](http://incompleteideas.net/), [Lilian Weng's](https://lilianweng.github.io/) and [Chris Olah's](https://colah.github.io/)
 
 Nice books read this year:
 - Judea Pearl's `The Book of Why`
