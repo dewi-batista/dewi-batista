@@ -8,7 +8,7 @@ Currently seeking an internship in which I can apply my skills in deep learning 
 
 Blogs I follow: [James Betker's](https://nonint.com/), [Richard Sutton's](http://incompleteideas.net/), [Lilian Weng's](https://lilianweng.github.io/) and [Chris Olah's](https://colah.github.io/)
 
-Nice books read in 2025:
+Nice books read this year:
 - Judea Pearl's `The Book of Why`
 - Cédric Villani's `Birth of a Theorem`
 - Cade Metz's `Genius Makers`
