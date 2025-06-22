@@ -6,14 +6,10 @@ Currently seeking an internship as the remaining component of my master's in whi
 
 📫 Email: `dewibatista(at)gmail(dot)com`
 
+Blogs I follow: [James Betker's](https://nonint.com/), [Richard Sutton's](http://incompleteideas.net/), [Lilian Weng's](https://lilianweng.github.io/) and [Chris Olah's](https://colah.github.io/)
+
 Books read in 2025:
 - Judea Pearl's `The Book of Why`
 - Janelle Shane's `You Look Like a Thing and I Love You`
 - Cade Metz's `Genius Makers` - Ignore the cringy title. Great book.
 - Cédric Villani's `Birth of a Theorem`
-
-Blogs I follow:
-- [James Betker](https://nonint.com/)
-- [Richard Sutton](http://incompleteideas.net/)
-- [Lilian Weng](https://lilianweng.github.io/)
-- [Chris Olah](https://colah.github.io/)
