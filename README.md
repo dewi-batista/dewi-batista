@@ -11,5 +11,5 @@ Blogs I follow: [James Betker's](https://nonint.com/), [Richard Sutton's](http:/
 Books read in 2025:
 - Judea Pearl's `The Book of Why`
 - Cédric Villani's `Birth of a Theorem`
-- Cade Metz's `Genius Makers` (Ignore the cringy title. Great book.)
+- Cade Metz's `Genius Makers`
 - Janelle Shane's `You Look Like a Thing and I Love You`
