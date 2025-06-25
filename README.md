@@ -2,7 +2,7 @@
 
 Finishing my master's in Applied Maths specialising in Machine Learning and Statistics. My focus is mostly deep generative probabilistic modelling with some classical statistics sprinkled in and elliptic curve cryptography on the side.
 
-Currently seeking an internship in which I can apply my skills in deep learning to real-world problems.
+Soon to start an internship which will finish off my master's.
 
 📫 Email: `dewibatista(at)gmail(dot)com`
 
