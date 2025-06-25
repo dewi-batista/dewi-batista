@@ -6,7 +6,7 @@ Soon to start an internship which will finish off my master's.
 
 📫 Email: `dewibatista(at)gmail(dot)com`
 
-Nice blogs/writings: [James Betker's](https://nonint.com/), [Richard Sutton's](http://incompleteideas.net/), [Lilian Weng's](https://lilianweng.github.io/) and [Chris Olah's](https://colah.github.io/)
+Nice blogs/writings: [James Betker](https://nonint.com/), [Richard Sutton](http://incompleteideas.net/), [Lilian Weng](https://lilianweng.github.io/) and [Chris Olah](https://colah.github.io/)
 
 Nice books read this year:
 - Judea Pearl's `The Book of Why`
