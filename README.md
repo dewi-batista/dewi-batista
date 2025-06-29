@@ -1,4 +1,4 @@
-## 𓀙 Hello there, I'm Dewi 𓀙
+## 𓀙 Hi, I'm Dewi 𓀙
 
 I'm finishing my master's in Applied Maths specialising in Machine Learning and Statistics. My focus is mostly deep generative probabilistic modelling with some classical statistics sprinkled in and elliptic curve cryptography on the side.
 
