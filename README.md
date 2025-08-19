@@ -1,6 +1,6 @@
 ## 𓀙 Hi, I'm Dewi 𓀙
 
-I'm finishing my master's in Applied Maths specialising in Machine Learning and Statistics. My focus is mostly deep generative probabilistic modelling with some classical statistics sprinkled in and elliptic curve cryptography on the side.
+Finishing my master's in Applied Maths specialising in Machine Learning and Statistics. My focus is mostly deep generative probabilistic modelling with some classical statistics sprinkled in and elliptic curve cryptography on the side.
 
 Soon to start an interesting internship which will complete my master's and hopefully kick-start a career of deep learning research in industry.
 
