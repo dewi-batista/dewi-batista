@@ -1,6 +1,6 @@
 ## Hi, I'm Dewi ◡̈
 
-🎓 MSc Applied Maths w/ Machine Learning and Statistics specialty
+🎓 MSc Applied Maths — Machine Learning and Statistics specialty
 
 🚀 Soon to start an interesting deep learning internship at \<REDACTED>
 
