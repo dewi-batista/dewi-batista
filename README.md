@@ -1,4 +1,4 @@
-## ◡̈ Hi, I'm Dewi ◡̈
+## Hi, I'm Dewi ◡̈
 
 Finishing my master's in Applied Maths specialising in Machine Learning and Statistics. My focus is deep generative modelling.
 
