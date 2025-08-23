@@ -2,7 +2,7 @@
 
 🎓 Education: MSc Applied Maths w/ Machine Learning and Statistics specialty
 
-✨ Interests: Generative modelling and object detection
+✨ Interests: Generative modelling, object detection and elliptic curve cryptography
 
 🚀 Soon to start an interesting deep learning internship at \<REDACTED>
 
