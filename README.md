@@ -6,4 +6,4 @@
 
 ✨ Interests: Generative modelling, object detection and elliptic curve cryptography
 
-📫 Email (it's a relay/mask): `9m945w78o@mozmail.com`
+📫 Email (it's a relay/mask): [9m945w78o@mozmail.com](mailto:9m945w78o@mozmail.com)
