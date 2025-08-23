@@ -1,6 +1,6 @@
 ## Hi, I'm Dewi ◡̈
 
-Finishing my master's in Applied Maths specialising in Machine Learning and Statistics. My focus is deep generative modelling.
+Finishing my master's in Applied Maths specialising in Machine Learning and Statistics. My focus is deep generative modelling and object detection.
 
 Soon to start an interesting internship at the intersection of deep learning and cryptography.
 <!-- and hopefully kick-start a career of deep learning research in industry. -->
