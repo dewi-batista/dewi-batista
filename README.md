@@ -2,7 +2,7 @@
 
 🎓 MSc Applied Maths: Machine Learning specialty, University of Groningen
 
-<img src="cat.png" alt="Logo" width="20"/> Soon to start an interesting deep learning internship at \<REDACTED>
+<img src="cat.png" alt="Logo" width="20"/> Soon to start an interesting deep learning internship
 
 💕 Generative modelling, object detection and elliptic curve cryptography
 
