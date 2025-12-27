@@ -1,4 +1,4 @@
-## Hi, I'm Dewi ◡̈
+## Hi, I'm Dewi ◡̈ ˙ᵕ˙
 About me:
 - 🎓 MSc Applied Maths, Machine Learning & Statistics specialisation
 - 💕 Generative modelling and elliptic curve cryptography
