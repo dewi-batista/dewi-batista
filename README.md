@@ -1,6 +1,6 @@
 ## Hi, I'm Dewi 👋˙ᵕ˙
 
-Applied mathematics MSc graduate specialising in deep generative models for image generation, reconstruction, and anomaly detection.
+I build deep generative models and language models in PyTorch, with a strong applied math background.
 
 - Research and teaching experience in machine learning and cryptography
 - Thesis: hybrid-objective deep generative models for image generation and anomaly detection (PyTorch)
