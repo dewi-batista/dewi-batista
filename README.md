@@ -1,9 +1,9 @@
 ## Hi, I'm Dewi 👋˙ᵕ˙
 
-I build deep generative models and language models in PyTorch, with a strong applied maths background.
+I build deep generative image and language models through PyTorch. Strong applied maths background.
 
 - Research and teaching experience in machine learning and cryptography
 - MSc thesis: hybrid-objective deep generative models for image generation and anomaly detection (through PyTorch)
-- Seeking Machine Learning Engineer / Research Engineer roles
+- Seeking ML/AI Engineer and Data Scientist roles
 
 📫 Contact: [9m945w78o@mozmail.com](mailto:9m945w78o@mozmail.com)
