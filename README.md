@@ -1,6 +1,6 @@
 ## Hi, I'm Dewi 👋˙ᵕ˙
 
-I build deep generative image models and language models through PyTorch. Strong applied maths/statistics background.
+I build deep generative image models and language models through PyTorch. Strong applied maths and statistics background.
 
 - Research and teaching experience in machine learning and cybersecurity
 - MSc thesis: hybrid-objective deep generative models for image generation and anomaly detection (through PyTorch)
