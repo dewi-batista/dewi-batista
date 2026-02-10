@@ -7,4 +7,4 @@ I work on applied statistical modelling, probabilistic methods and machine learn
 - Research and teaching experience in machine learning and security
 - MSc thesis: probabilistic generative models for image generation and anomaly detection
 
-📫 Contact: [9m945w78o@mozmail.com](mailto:9m945w78o@mozmail.com)
+📫 Contact: [dewibatista@gmail.com](mailto:dewibatista@gmail.com)
