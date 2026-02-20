@@ -2,7 +2,7 @@
 
 I work on machine learning and applied statistical modelling through Python.
 
-- Strong applied mathematics and statistics background.
+- Strong applied mathematics and statistics background
 - Experience in deep generative modelling, inference and model evaluation
 - Research and teaching experience in machine learning and cybersecurity
 - MSc thesis: deep probabilistic generative modelling for image generation and anomaly detection
