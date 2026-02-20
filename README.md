@@ -1,6 +1,6 @@
 ## Hi, I'm Dewi 👋
 
-I work on machine learning and applied statistical modelling through Python.
+I work on machine learning and applied statistical modelling mostly in Python and R.
 
 - Strong applied mathematics and statistics background
 - Experience in deep generative modelling, inference and model evaluation
