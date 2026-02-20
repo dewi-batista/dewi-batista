@@ -1,6 +1,6 @@
 ## Hi, I'm Dewi 👋
 
-I work on applied statistical modelling, probabilistic methods and machine learning using Python and PyTorch.
+I work on machine learning and applied statistical modelling through Python.
 
 - Strong applied mathematics and statistics background.
 - Experience in deep generative modelling, inference and model evaluation
