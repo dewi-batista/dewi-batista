@@ -1,10 +1,6 @@
 ## Hi, I'm Dewi 👋
 
-I work on machine learning and applied statistical modelling in Python and R.
+I work on machine learning and applied statistical modelling.
 
-- Strong applied mathematics and statistics background
-- Experience in deep generative modelling, inference and model evaluation
+- Expertise in deep generative modelling
 - Research and teaching experience in machine learning and cybersecurity
-- MSc thesis: deep generative probabilistic modelling for image generation and classification using hybrid objective functions
-
-📫 Contact: [dewibatista@gmail.com](mailto:dewibatista@gmail.com)
